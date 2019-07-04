@@ -10,3 +10,5 @@ Based on the [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) comput
 Takes Readme data from all the top Repos, so your Readme will be the best of the best with zero effort on your part
 
 This Readme itself has also been generated from the code itself so you can see how effectively it creates instant understanding of your code across your team
+
+Cross-platform and works for all major languages: Python, Java, Node etc.
